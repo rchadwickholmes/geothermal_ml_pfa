@@ -5,7 +5,7 @@ authors:
   given-names: "R. Chadwick"
   orcid: "https://orcid.org/0000-0002-7884-9843"
 title: "Geothermal ML PFA"
-version: 1.0.0
-doi: 
-date-released: 2022-01-01
+version: 1.0.0-alpha
+doi: 10.5281/zenodo.5806268
+date-released: 2021-12-27
 url: "https://github.com/rchadwickholmes/geothermal_ml_pfa"
